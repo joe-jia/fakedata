@@ -1,0 +1,12 @@
+{
+  "events": [
+    { "id": 1, "title": "Angular 2", "date": "2017-12-31 09:00:00", "image": "http://socialmediawebster.com/go1/images/angular2-logo.jpg", "seat": "88", "location": "Brisbane", "course": "Angular 2 course", "url": "angular2.html" },
+    { "id": 2, "title": "React", "date": "2018-01-31 09:00:00", "image": "http://socialmediawebster.com/go1/images/react-logo.jpg", "seat": "88", "location": "Brisbane", "course": "React JS course", "url": "react.html" },
+    { "id": 3, "title": "Vue", "date": "2017-11-28 09:00:00", "image": "http://socialmediawebster.com/go1/images/vue-logo.jpg", "seat": "88", "location": "Brisbane", "course": "Vue.js course", "url": "vue.html" },
+    { "id": 4, "title": "Angular 4", "date": "2018-09-11 09:00:00", "image": "http://socialmediawebster.com/go1/images/angular4-logo.jpg", "seat": "88", "location": "Brisbane", "course": "Angular 4 course", "url": "angular4.html" },
+    { "id": 5, "title": "AngularJS", "date": "2016-12-31 09:00:00", "image": "http://socialmediawebster.com/go1/images/angularjs-logo.jpg", "seat": "88", "location": "Brisbane", "course": "Angular JS course", "url": "angularjs.html" },
+    { "id": 6, "title": "AngularJS", "date": "2020-02-28 09:00:00", "image": "http://socialmediawebster.com/go1/images/angularjs-logo.jpg", "seat": "88", "location": "Brisbane", "course": "AngularJS extends HTML with new attributes. AngularJS is perfect for Single Page Applications (SPAs). AngularJS is easy to learn.", "url": "angularjs.html" },
+    { "id": 7, "title": "AngularJS", "date": "2015-12-01 09:00:00", "image": "http://socialmediawebster.com/go1/images/angularjs-logo.jpg", "seat": "88", "location": "Brisbane", "course": "AngularJS extends HTML with new attributes. AngularJS is perfect for Single Page Applications (SPAs). AngularJS is easy to learn.", "url": "angularjs.html" },
+    { "id": 8, "title": "AngularJS", "date": "2017-06-11 09:00:00", "image": "http://socialmediawebster.com/go1/images/angularjs-logo.jpg", "seat": "88", "location": "Brisbane", "course": "AngularJS extends HTML with new attributes. AngularJS is perfect for Single Page Applications (SPAs). AngularJS is easy to learn.", "url": "angularjs.html" }
+  ]
+}
